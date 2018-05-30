@@ -1,0 +1,29 @@
+{
+   "nodes" : [
+ {
+  "supercluster": "HEALTHY LIVING"
+ },
+ {
+ "supercluster": "OTHER"
+ }
+ ,
+ {
+ "supercluster": "CONDITIONS & SYMPTOMS"
+ }
+ ,
+ {
+ "supercluster": "PREGNANCY"
+ }
+ ,
+ {
+ "supercluster": "BODY PARTS"
+ }
+ ,
+ {
+ "supercluster": "TREATMENTS, REMEDIES & AIDS"
+ },
+ {
+ "supercluster": "ACCESS TO SERVICES"
+ }
+   ]
+}
