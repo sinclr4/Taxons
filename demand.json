@@ -1,0 +1,2006 @@
+[
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "weight",
+  "demand": 13341674,
+  "tacticalOpp": 1850894.8035819
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "nhs jobs",
+  "demand": 11910811,
+  "tacticalOpp": 2135924.686255
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "cancer",
+  "demand": 10958517,
+  "tacticalOpp": 835588.2515015302
+ },
+ {
+  "supercluster": "PREGNANCY",
+  "cluster": "pregnancy",
+  "demand": 8049271,
+  "tacticalOpp": 996337.2621468699
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "mental health",
+  "demand": 7416316,
+  "tacticalOpp": 701832.3501528001
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "depression",
+  "demand": 6745234,
+  "tacticalOpp": 741391.7229583
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "eyes",
+  "demand": 6727706,
+  "tacticalOpp": 793806.9117716
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "bmi",
+  "demand": 6300492,
+  "tacticalOpp": 189060.1517028
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "pill",
+  "demand": 6138366,
+  "tacticalOpp": 954956.5598402
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "heart",
+  "demand": 5788912,
+  "tacticalOpp": 376819.9720057
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "blood",
+  "demand": 5710244,
+  "tacticalOpp": 472668.24317290005
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "urine",
+  "demand": 5529051,
+  "tacticalOpp": 301624.85491579
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "diabetes",
+  "demand": 5444106,
+  "tacticalOpp": 543340.868685122
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "stomach",
+  "demand": 5295278,
+  "tacticalOpp": 413339.82629127
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "blood pressure",
+  "demand": 5204663,
+  "tacticalOpp": 370644.1617961
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "dentist",
+  "demand": 4605092,
+  "tacticalOpp": 359783.55805626
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "vitamins",
+  "demand": 4313144,
+  "tacticalOpp": 247026.78097242
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "ear",
+  "demand": 4307430,
+  "tacticalOpp": 385630.5434333
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "anxiety",
+  "demand": 3883575,
+  "tacticalOpp": 351345.37188630004
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "disability",
+  "demand": 3677992,
+  "tacticalOpp": 477852.71672420006
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "ehic",
+  "demand": 3652028,
+  "tacticalOpp": 60001.091927999994
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "dementia",
+  "demand": 3623030,
+  "tacticalOpp": 517288.93050193996
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "sleep",
+  "demand": 2865777,
+  "tacticalOpp": 278948.2932407
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "social services",
+  "demand": 2832699,
+  "tacticalOpp": 328732.6762202
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "skin",
+  "demand": 2697932,
+  "tacticalOpp": 225525.43353190002
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "brain",
+  "demand": 2601360,
+  "tacticalOpp": 144643.72596675
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "asd",
+  "demand": 2473767,
+  "tacticalOpp": 232723.43248810002
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "alcohol",
+  "demand": 2470548,
+  "tacticalOpp": 276249.9525803
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "arthritis",
+  "demand": 2372927,
+  "tacticalOpp": 220156.2226971
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "common cold",
+  "demand": 2363826,
+  "tacticalOpp": 140442.06964290002
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "glasses",
+  "demand": 2300906,
+  "tacticalOpp": 382755.3741559999
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "sex",
+  "demand": 2283143,
+  "tacticalOpp": 190304.4450563
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "mouth",
+  "demand": 2266838,
+  "tacticalOpp": 147639.418967
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "liver",
+  "demand": 2256556,
+  "tacticalOpp": 82553.7899073
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "thyroid",
+  "demand": 2192072,
+  "tacticalOpp": 98796.34738220001
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "exercise",
+  "demand": 2186628,
+  "tacticalOpp": 259193.17615759998
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "iron",
+  "demand": 2124787,
+  "tacticalOpp": 190936.516445
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "oil",
+  "demand": 2122950,
+  "tacticalOpp": 334586.37858789996
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "viagra",
+  "demand": 1982658,
+  "tacticalOpp": 352383.03222
+ },
+ {
+  "supercluster": "PREGNANCY",
+  "cluster": "labour",
+  "demand": 1972300,
+  "tacticalOpp": 151528.9487178
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "healthy lifestyle",
+  "demand": 1824476,
+  "tacticalOpp": 310844.977433
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "leg",
+  "demand": 1766269,
+  "tacticalOpp": 116505.6236642
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "pip",
+  "demand": 1762771,
+  "tacticalOpp": 98407.59397699998
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "back",
+  "demand": 1665959,
+  "tacticalOpp": 152977.7590218
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "drugs",
+  "demand": 1618147,
+  "tacticalOpp": 259849.195435
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "fibromyalgia",
+  "demand": 1566024,
+  "tacticalOpp": 20726.8786045
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "cough",
+  "demand": 1496823,
+  "tacticalOpp": 100271.3372473
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "cream",
+  "demand": 1476082,
+  "tacticalOpp": 216717.50831200997
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "vomiting",
+  "demand": 1435121,
+  "tacticalOpp": 57939.474827000005
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "symptom checker",
+  "demand": 1354517,
+  "tacticalOpp": 207994.50357200002
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "contact lenses",
+  "demand": 1347767,
+  "tacticalOpp": 241047.11425500002
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "menopause",
+  "demand": 1344677,
+  "tacticalOpp": 66317.2325749
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "ibs",
+  "demand": 1341172,
+  "tacticalOpp": 64811.617137199995
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "shingles",
+  "demand": 1327466,
+  "tacticalOpp": 60610.5475052
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "doctors",
+  "demand": 1322871,
+  "tacticalOpp": 150415.3141342
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "back pain",
+  "demand": 1293373,
+  "tacticalOpp": 117106.798035
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "nhs direct",
+  "demand": 1293339,
+  "tacticalOpp": 8993.121424
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "temperature",
+  "demand": 1290216,
+  "tacticalOpp": 49461.6924439
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "thrush",
+  "demand": 1259516,
+  "tacticalOpp": 129778.9957756
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "hernia",
+  "demand": 1232983,
+  "tacticalOpp": 74718.64929124
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "sciatic nerve",
+  "demand": 1232627,
+  "tacticalOpp": 139603.9799711
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "gluten",
+  "demand": 1204534,
+  "tacticalOpp": 164793.8011794
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "sinus",
+  "demand": 1197979,
+  "tacticalOpp": 95430.43111675
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "gallbladder",
+  "demand": 1184225,
+  "tacticalOpp": 65109.97529459999
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "chicken pox",
+  "demand": 1175847,
+  "tacticalOpp": 34459.8760092
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "feet",
+  "demand": 1143217,
+  "tacticalOpp": 85378.26167010001
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "muscle",
+  "demand": 1141810,
+  "tacticalOpp": 126162.62418320001
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "prescription",
+  "demand": 1128393,
+  "tacticalOpp": 141505.211419
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "esa",
+  "demand": 1113550,
+  "tacticalOpp": 35103.144001
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "headache",
+  "demand": 1098418,
+  "tacticalOpp": 68702.70882989999
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "knee",
+  "demand": 1088002,
+  "tacticalOpp": 97764.537957
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "acid",
+  "demand": 1085709,
+  "tacticalOpp": 108768.6432687
+ },
+ {
+  "supercluster": "PREGNANCY",
+  "cluster": "contraception",
+  "demand": 1060472,
+  "tacticalOpp": 110169.75902299999
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "adhd",
+  "demand": 1045955,
+  "tacticalOpp": 54083.61834144
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "herpes",
+  "demand": 1039469,
+  "tacticalOpp": 44070.115754700004
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "pneumonia",
+  "demand": 1004037,
+  "tacticalOpp": 15585.419678769998
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "eczema",
+  "demand": 996488,
+  "tacticalOpp": 50707.30203590001
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "tonsillitis",
+  "demand": 978584,
+  "tacticalOpp": 123999.12406253001
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "lupus",
+  "demand": 951759,
+  "tacticalOpp": 22817.8209652
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "stomach pain",
+  "demand": 929198,
+  "tacticalOpp": 50679.9458755
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "cholesterol",
+  "demand": 926784,
+  "tacticalOpp": 74062.5861818
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "wheelchair",
+  "demand": 909878,
+  "tacticalOpp": 160720.46911399998
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "throat",
+  "demand": 900950,
+  "tacticalOpp": 105497.64499147999
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "poisoning",
+  "demand": 890484,
+  "tacticalOpp": 38041.598353600006
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "gout",
+  "demand": 880825,
+  "tacticalOpp": 60212.3713114
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "nail",
+  "demand": 880145,
+  "tacticalOpp": 72385.4134596
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "piles",
+  "demand": 869413,
+  "tacticalOpp": 49487.881455
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "naproxen",
+  "demand": 822600,
+  "tacticalOpp": 145557.633362
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "therapy",
+  "demand": 821832,
+  "tacticalOpp": 59553.4492795
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "sclerosis",
+  "demand": 809221,
+  "tacticalOpp": 76315.541635
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "period",
+  "demand": 802836,
+  "tacticalOpp": 77858.1355206
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "diverticular disease",
+  "demand": 782292,
+  "tacticalOpp": 77589.997612
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "constipation",
+  "demand": 780299,
+  "tacticalOpp": 47548.398721000005
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "ovulation",
+  "demand": 779571,
+  "tacticalOpp": 137494.05864200002
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "gel",
+  "demand": 773928,
+  "tacticalOpp": 134920.2781468
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "amitriptyline",
+  "demand": 748627,
+  "tacticalOpp": 132108.943662
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "statins",
+  "demand": 727559,
+  "tacticalOpp": 66831.07523
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "diarrhea",
+  "demand": 718912,
+  "tacticalOpp": 43889.5008995
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "scan",
+  "demand": 714448,
+  "tacticalOpp": 31154.614362199998
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "pancreas",
+  "demand": 711115,
+  "tacticalOpp": 18479.8692111
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "endometriosis",
+  "demand": 700507,
+  "tacticalOpp": 8431.1816235
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "chest",
+  "demand": 699172,
+  "tacticalOpp": 34898.712835
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "appendix",
+  "demand": 681457,
+  "tacticalOpp": 43859.56162234
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "bronchitis",
+  "demand": 681357,
+  "tacticalOpp": 649.0857977000001
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "plantar fasciitis",
+  "demand": 680106,
+  "tacticalOpp": 25717.2426291
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "lyme disease",
+  "demand": 679000,
+  "tacticalOpp": 28484.328455000003
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "knee pain",
+  "demand": 662394,
+  "tacticalOpp": 35614.522271
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "meningitis",
+  "demand": 660311,
+  "tacticalOpp": 19295.4805546
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "boobs",
+  "demand": 651716,
+  "tacticalOpp": 77110.9873089
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "neck",
+  "demand": 649394,
+  "tacticalOpp": 46146.470778899995
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "walking",
+  "demand": 641265,
+  "tacticalOpp": 110402.81596030001
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "migraine",
+  "demand": 641023,
+  "tacticalOpp": 43227.994974600006
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "ringworm",
+  "demand": 629229,
+  "tacticalOpp": 79154.778047
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "ibuprofen",
+  "demand": 612751,
+  "tacticalOpp": 55628.855051000006
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "psoriasis",
+  "demand": 608281,
+  "tacticalOpp": 8343.190188300001
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "nice guidelines",
+  "demand": 604463,
+  "tacticalOpp": 108142.96141299998
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "chest pain",
+  "demand": 587573,
+  "tacticalOpp": 25662.3737261
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "attendance allowance",
+  "demand": 575612,
+  "tacticalOpp": 7156.328369000001
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "antihistamine",
+  "demand": 573286,
+  "tacticalOpp": 79054.51929299999
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "omeprazole",
+  "demand": 571985,
+  "tacticalOpp": 101401.048229
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "pharmacy",
+  "demand": 567650,
+  "tacticalOpp": 76915.13210799999
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "tramadol",
+  "demand": 557725,
+  "tacticalOpp": 99923.154942
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "amoxicillin",
+  "demand": 555195,
+  "tacticalOpp": 98659.526021
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "osteoporosis",
+  "demand": 553929,
+  "tacticalOpp": 44728.112930200004
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "diazepam",
+  "demand": 546196,
+  "tacticalOpp": 96605.18485699999
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "gabapentin",
+  "demand": 543018,
+  "tacticalOpp": 97382.923803
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "hand foot and mouth",
+  "demand": 541769,
+  "tacticalOpp": 6565.89387226
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "carpal tunnel syndrome",
+  "demand": 540833,
+  "tacticalOpp": 13193.487887
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "pleurisy",
+  "demand": 523102,
+  "tacticalOpp": 68711.69910700001
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "flatulence",
+  "demand": 521067,
+  "tacticalOpp": 63984.882317999996
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "magnesium",
+  "demand": 517917,
+  "tacticalOpp": 64689.678297000006
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "dyspraxia",
+  "demand": 514670,
+  "tacticalOpp": 13949.887590400001
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "ankles",
+  "demand": 512762,
+  "tacticalOpp": 35622.118916
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "stress",
+  "demand": 512490,
+  "tacticalOpp": 52374.248789
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "cellulitis",
+  "demand": 509027,
+  "tacticalOpp": 65312.543041
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "yoga",
+  "demand": 500766,
+  "tacticalOpp": 50261.024899899996
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "stool",
+  "demand": 479977,
+  "tacticalOpp": 61594.5976303
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "alzheimer's",
+  "demand": 474621,
+  "tacticalOpp": 73799.416857
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "apple cider vinegar",
+  "demand": 474404,
+  "tacticalOpp": 81275.58367699999
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "copd",
+  "demand": 470518,
+  "tacticalOpp": 47764.878129799996
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "couch to 5k",
+  "demand": 464682,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "crohn's disease",
+  "demand": 455033,
+  "tacticalOpp": 4999.034705
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "foot pain",
+  "demand": 449783,
+  "tacticalOpp": 37953.880785
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "shoulder",
+  "demand": 444823,
+  "tacticalOpp": 25686.5546851
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "polymyalgia",
+  "demand": 443048,
+  "tacticalOpp": 8455.2778803
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "turmeric",
+  "demand": 438132,
+  "tacticalOpp": 75142.671062
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "potassium",
+  "demand": 425696,
+  "tacticalOpp": 56525.8806142
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "fibrosis",
+  "demand": 424040,
+  "tacticalOpp": 13837.219488
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "tennis elbow",
+  "demand": 423317,
+  "tacticalOpp": 15689.214977
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "codeine",
+  "demand": 422461,
+  "tacticalOpp": 75726.27703699999
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "smoking",
+  "demand": 411844,
+  "tacticalOpp": 23655.2644911
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "sore throat",
+  "demand": 410711,
+  "tacticalOpp": 16849.1637596
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "hives",
+  "demand": 405031,
+  "tacticalOpp": 43794.04442
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "scabies",
+  "demand": 402611,
+  "tacticalOpp": 9195.9233036
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "toothache",
+  "demand": 399379,
+  "tacticalOpp": 31074.732424399997
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "probiotics",
+  "demand": 393573,
+  "tacticalOpp": 32453.9986392
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "veins",
+  "demand": 368402,
+  "tacticalOpp": 16926.104842
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "shoulder pain",
+  "demand": 366604,
+  "tacticalOpp": 19686.146322
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "impetigo",
+  "demand": 358971,
+  "tacticalOpp": 46589.176363
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "neuralgia",
+  "demand": 358246,
+  "tacticalOpp": 22460.309431
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "chlamydia",
+  "demand": 352815,
+  "tacticalOpp": 9374.415593
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "voltarol",
+  "demand": 351283,
+  "tacticalOpp": 57611.9916555
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "walk in centre",
+  "demand": 348065,
+  "tacticalOpp": 292.7999582
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "doxycycline",
+  "demand": 338414,
+  "tacticalOpp": 60427.504583
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "glucosamine",
+  "demand": 334751,
+  "tacticalOpp": 59702.19481
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "metronidazole",
+  "demand": 333357,
+  "tacticalOpp": 55861.217897
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "kidney pain",
+  "demand": 331766,
+  "tacticalOpp": 39720.594861000005
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "spray",
+  "demand": 330283,
+  "tacticalOpp": 50882.8993359
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "lymph nodes",
+  "demand": 326175,
+  "tacticalOpp": 6538.3019243
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "red cross",
+  "demand": 321436,
+  "tacticalOpp": 57645.256177999996
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "honey",
+  "demand": 320243,
+  "tacticalOpp": 29320.053019
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "nose",
+  "demand": 314491,
+  "tacticalOpp": 30228.297976
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "111",
+  "demand": 308444,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "erection",
+  "demand": 300413,
+  "tacticalOpp": 4749.251097599999
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "beta blockers",
+  "demand": 298436,
+  "tacticalOpp": 6467.189959
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "rosacea",
+  "demand": 297339,
+  "tacticalOpp": 3667.172366
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "prednisolone",
+  "demand": 294429,
+  "tacticalOpp": 48544.052888
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "dyslexia",
+  "demand": 291929,
+  "tacticalOpp": 10890.590237
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "arm pain",
+  "demand": 289749,
+  "tacticalOpp": 34755.722061
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "ramipril",
+  "demand": 281769,
+  "tacticalOpp": 50369.149773
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "heel pain",
+  "demand": 281380,
+  "tacticalOpp": 11572.850622
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "ranitidine",
+  "demand": 274394,
+  "tacticalOpp": 49176.936730999994
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "leg pain",
+  "demand": 270490,
+  "tacticalOpp": 37704.6643272
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "bunion",
+  "demand": 262745,
+  "tacticalOpp": 17181.8151656
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "patient uk",
+  "demand": 262283,
+  "tacticalOpp": 46797.02703
+ },
+ {
+  "supercluster": "PREGNANCY",
+  "cluster": "fertility",
+  "demand": 257574,
+  "tacticalOpp": 28522.882106999998
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "running",
+  "demand": 257389,
+  "tacticalOpp": 35503.338069
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "emphysema",
+  "demand": 256986,
+  "tacticalOpp": 41767.821453
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "neck pain",
+  "demand": 256189,
+  "tacticalOpp": 13428.632064000001
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "fibroids",
+  "demand": 251886,
+  "tacticalOpp": 5106.555495
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "aloe vera",
+  "demand": 236797,
+  "tacticalOpp": 32838.393626
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "huntington's disease",
+  "demand": 235273,
+  "tacticalOpp": 5484.148716
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "hip pain",
+  "demand": 235003,
+  "tacticalOpp": 3387.69352462
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "costochondritis",
+  "demand": 231855,
+  "tacticalOpp": 27454.71204
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "st john's wort",
+  "demand": 231224,
+  "tacticalOpp": 35666.257103
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "antibiotics",
+  "demand": 230174,
+  "tacticalOpp": 16217.235656519999
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "trimethoprim",
+  "demand": 229822,
+  "tacticalOpp": 41215.329094
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "paracetamol",
+  "demand": 228316,
+  "tacticalOpp": 16656.659652000002
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "flank pain",
+  "demand": 227412,
+  "tacticalOpp": 10683.693006000001
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "creatine",
+  "demand": 222504,
+  "tacticalOpp": 39148.649966
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "serotonin",
+  "demand": 219568,
+  "tacticalOpp": 11362.667254
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "prochlorperazine",
+  "demand": 219416,
+  "tacticalOpp": 24276.04551
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "tens machine",
+  "demand": 214710,
+  "tacticalOpp": 1735.170534
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "melatonin",
+  "demand": 211568,
+  "tacticalOpp": 17256.72531
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "xanax",
+  "demand": 202643,
+  "tacticalOpp": 12979.84309
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "nitrofurantoin",
+  "demand": 201711,
+  "tacticalOpp": 36175.071012
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "clarithromycin",
+  "demand": 198150,
+  "tacticalOpp": 35304.661146
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "addison's disease",
+  "demand": 192158,
+  "tacticalOpp": 590.3856174
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "earache",
+  "demand": 190253,
+  "tacticalOpp": 5840.971839299999
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "heat stroke",
+  "demand": 189547,
+  "tacticalOpp": 7222.558215
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "venlafaxine",
+  "demand": 182892,
+  "tacticalOpp": 32789.468332
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "testicular pain",
+  "demand": 182707,
+  "tacticalOpp": 22940.076153
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "muscle pain",
+  "demand": 181319,
+  "tacticalOpp": 23429.133041
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "mumps",
+  "demand": 172976,
+  "tacticalOpp": 2569.925987
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "milk thistle",
+  "demand": 172098,
+  "tacticalOpp": 8629.6975853
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "breast pain",
+  "demand": 172075,
+  "tacticalOpp": 14085.73197
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "phenergan",
+  "demand": 171817,
+  "tacticalOpp": 30813.372434
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "pain syndromes",
+  "demand": 170420,
+  "tacticalOpp": 17469.0428046
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "duloxetine",
+  "demand": 163059,
+  "tacticalOpp": 26711.469151999998
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "a&e",
+  "demand": 154226,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "methotrexate",
+  "demand": 151299,
+  "tacticalOpp": 21982.05067
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "lump",
+  "demand": 148721,
+  "tacticalOpp": 17587.848223499997
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "down syndrome",
+  "demand": 145659,
+  "tacticalOpp": 304.6565692
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "flucloxacillin",
+  "demand": 145115,
+  "tacticalOpp": 26024.823617000002
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "reiki",
+  "demand": 144146,
+  "tacticalOpp": 25851.372704
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "quetiapine",
+  "demand": 143942,
+  "tacticalOpp": 24428.838559
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "valerian",
+  "demand": 143198,
+  "tacticalOpp": 3940.597257
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "chlorhexidine",
+  "demand": 138288,
+  "tacticalOpp": 23636.434628799998
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "folliculitis",
+  "demand": 136539,
+  "tacticalOpp": 7066.49466
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "rib pain",
+  "demand": 134775,
+  "tacticalOpp": 18660.333702
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "hypermobility",
+  "demand": 131679,
+  "tacticalOpp": 15958.689047
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "clinic",
+  "demand": 130299,
+  "tacticalOpp": 22884.222327000003
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "groin pain",
+  "demand": 129234,
+  "tacticalOpp": 2163.42634128
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "eye pain",
+  "demand": 127180,
+  "tacticalOpp": 21359.720563
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "mebeverine",
+  "demand": 126391,
+  "tacticalOpp": 11466.29051
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "spirulina",
+  "demand": 122345,
+  "tacticalOpp": 21941.625307
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "ciprofloxacin",
+  "demand": 118560,
+  "tacticalOpp": 6915.104261
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "anaphylaxis",
+  "demand": 114906,
+  "tacticalOpp": 1976.583217
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "wrist pain",
+  "demand": 112205,
+  "tacticalOpp": 7214.077629
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "elbow pain",
+  "demand": 111072,
+  "tacticalOpp": 11081.02309
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "ovary pain",
+  "demand": 110931,
+  "tacticalOpp": 4386.723739
+ },
+ {
+  "supercluster": "PREGNANCY",
+  "cluster": "abortion",
+  "demand": 108420,
+  "tacticalOpp": 1217.570414
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "period pain",
+  "demand": 106805,
+  "tacticalOpp": 12085.633529
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "caffeine",
+  "demand": 105772,
+  "tacticalOpp": 12038.6452169
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "coccyx pain",
+  "demand": 104190,
+  "tacticalOpp": 1795.479252
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "penicillin",
+  "demand": 103842,
+  "tacticalOpp": 10787.3147562
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "joint pain",
+  "demand": 99830,
+  "tacticalOpp": 10982.87405
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "toe pain",
+  "demand": 99778,
+  "tacticalOpp": 14303.033985999999
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "aciclovir",
+  "demand": 99173,
+  "tacticalOpp": 14951.14587
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "lotion",
+  "demand": 97914,
+  "tacticalOpp": 17500.23612
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "gallbladder pain",
+  "demand": 94644,
+  "tacticalOpp": 12030.827
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "hydrocortisone",
+  "demand": 93843,
+  "tacticalOpp": 15243.76112
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "ankle pain",
+  "demand": 92512,
+  "tacticalOpp": 15474.322566
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "hospital",
+  "demand": 86813,
+  "tacticalOpp": 15013.088297000002
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "low testosterone",
+  "demand": 85815,
+  "tacticalOpp": 13285.497969999999
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "dyspareunia",
+  "demand": 83258,
+  "tacticalOpp": 979.3211326
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "anusol",
+  "demand": 78984,
+  "tacticalOpp": 14164.558837
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "senokot",
+  "demand": 78976,
+  "tacticalOpp": 11137.51541
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "proctalgia fugax",
+  "demand": 78607,
+  "tacticalOpp": 5278.038591
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "sore tongue",
+  "demand": 75771,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "achilles tendon pain",
+  "demand": 75163,
+  "tacticalOpp": 12644.25472
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "dyscalculia",
+  "demand": 73816,
+  "tacticalOpp": 6758.890536000001
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "paingone",
+  "demand": 72383,
+  "tacticalOpp": 12980.911516
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "lamotrigine",
+  "demand": 71242,
+  "tacticalOpp": 7406.156787
+ },
+ {
+  "supercluster": "HEALTHY LIVING",
+  "cluster": "sugar",
+  "demand": 70531,
+  "tacticalOpp": 12649.639482999999
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "liver pain",
+  "demand": 69099,
+  "tacticalOpp": 9948.142891
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "terbinafine",
+  "demand": 67970,
+  "tacticalOpp": 12189.41672
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "jaw pain",
+  "demand": 66815,
+  "tacticalOpp": 8163.864014
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "appendix pain",
+  "demand": 63794,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "betnovate",
+  "demand": 60995,
+  "tacticalOpp": 10938.81017
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "sore nipples",
+  "demand": 59914,
+  "tacticalOpp": 10026.80411
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "hydroxychloroquine",
+  "demand": 59232,
+  "tacticalOpp": 10065.25316
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "arnica",
+  "demand": 59012,
+  "tacticalOpp": 10583.28337
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "dystonia",
+  "demand": 58301,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "vulvodynia",
+  "demand": 58280,
+  "tacticalOpp": 647.6544039
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "vaginal pain",
+  "demand": 55472,
+  "tacticalOpp": 7170.169932
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "daktarin",
+  "demand": 55306,
+  "tacticalOpp": 9918.83464
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "vaping",
+  "demand": 54541,
+  "tacticalOpp": 9050.77987
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "hand pain",
+  "demand": 54013,
+  "tacticalOpp": 4053.377576
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "azithromycin",
+  "demand": 52361,
+  "tacticalOpp": 9390.290989
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "finger pain",
+  "demand": 51820,
+  "tacticalOpp": 6854.2697530000005
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "chloramphenicol",
+  "demand": 51459,
+  "tacticalOpp": 9229.039815
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "pelvic pain",
+  "demand": 50324,
+  "tacticalOpp": 6953.749527
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "eumovate",
+  "demand": 50318,
+  "tacticalOpp": 9023.956897
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "calcium deficiency",
+  "demand": 50259,
+  "tacticalOpp": 8799.490939
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "fucidin",
+  "demand": 49919,
+  "tacticalOpp": 8953.216781
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "painkillers",
+  "demand": 46412,
+  "tacticalOpp": 3091.8104695
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "lidocaine",
+  "demand": 44978,
+  "tacticalOpp": 3850.6643249999997
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "cephalexin",
+  "demand": 43859,
+  "tacticalOpp": 7865.79362
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "nicotine withdrawal symptoms",
+  "demand": 43175,
+  "tacticalOpp": 7653.459661
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "neuropathic pain",
+  "demand": 42676,
+  "tacticalOpp": 1126.73025
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "mometasone",
+  "demand": 41673,
+  "tacticalOpp": 7473.233164
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "sore gums",
+  "demand": 41189,
+  "tacticalOpp": 9.596691519
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "dysuria",
+  "demand": 40738,
+  "tacticalOpp": 4686.774724
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "buttock pain",
+  "demand": 38948,
+  "tacticalOpp": 6984.504435
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "gallstones pain",
+  "demand": 38727,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "bone pain",
+  "demand": 37885,
+  "tacticalOpp": 5439.232965
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "biofreeze",
+  "demand": 36856,
+  "tacticalOpp": 6609.124718
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "sternum pain",
+  "demand": 36670,
+  "tacticalOpp": 4948.760635
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "shingles pain",
+  "demand": 34839,
+  "tacticalOpp": 5357.272151
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "dermovate",
+  "demand": 32880,
+  "tacticalOpp": 5242.171781
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "arthritis pain",
+  "demand": 32378,
+  "tacticalOpp": 5437.879656
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "pain when swallowing",
+  "demand": 31766,
+  "tacticalOpp": 2827.105252
+ },
+ {
+  "supercluster": "BODY PARTS",
+  "cluster": "platelets",
+  "demand": 31657,
+  "tacticalOpp": 3874.6837986
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "trapped wind pain",
+  "demand": 30973,
+  "tacticalOpp": 4607.220167
+ },
+ {
+  "supercluster": "ACCESS TO SERVICES",
+  "cluster": "hospice",
+  "demand": 30571,
+  "tacticalOpp": 2843.702243
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "spleen pain",
+  "demand": 30116,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "low hemoglobin",
+  "demand": 29621,
+  "tacticalOpp": 129.8116411
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "sore scalp",
+  "demand": 28733,
+  "tacticalOpp": 4952.071252
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "hypoxia",
+  "demand": 28576,
+  "tacticalOpp": 1029.852941
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "angina pain",
+  "demand": 27851,
+  "tacticalOpp": 3783.261997
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "ofloxacin",
+  "demand": 27226,
+  "tacticalOpp": 1381.2997547999998
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "sacroiliac joint pain",
+  "demand": 26896,
+  "tacticalOpp": 4820.408365
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "esomeprazole",
+  "demand": 26459,
+  "tacticalOpp": 1337.216871
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "growing pains",
+  "demand": 25218,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "kelp",
+  "demand": 24289,
+  "tacticalOpp": 2446.128107
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "bunion pain",
+  "demand": 22857,
+  "tacticalOpp": 2944.291525
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "bladder pain",
+  "demand": 22619,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "fibromyalgia pain",
+  "demand": 22481,
+  "tacticalOpp": 3808.6262859999997
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "pain in thumb joint",
+  "demand": 22469,
+  "tacticalOpp": 2275.857229
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "rotator cuff pain",
+  "demand": 20938,
+  "tacticalOpp": 3755.439477
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "stress fracture",
+  "demand": 19605,
+  "tacticalOpp": 3516.178909
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "aches and pains all over",
+  "demand": 19160,
+  "tacticalOpp": 3151.148389
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "constipation pain",
+  "demand": 19123,
+  "tacticalOpp": 2123.406068
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "chronic pain",
+  "demand": 18895,
+  "tacticalOpp": 0
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "bazuka",
+  "demand": 18075,
+  "tacticalOpp": 3241.161488
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "dovobet",
+  "demand": 17970,
+  "tacticalOpp": 3222.604621
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "fucibet",
+  "demand": 17856,
+  "tacticalOpp": 3202.30039
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "sore mouth",
+  "demand": 17780,
+  "tacticalOpp": 2342.965699
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "amitriptyline for pain",
+  "demand": 17325,
+  "tacticalOpp": 3065.735361
+ },
+ {
+  "supercluster": "TREATMENTS, REMEDIES & AIDS",
+  "cluster": "eurax",
+  "demand": 16355,
+  "tacticalOpp": 2093.726133
+ },
+ {
+  "supercluster": "pain",
+  "cluster": "who pain ladder",
+  "demand": 12903,
+  "tacticalOpp": 904.7769922
+ },
+ {
+  "supercluster": "OTHER",
+  "cluster": "lactase",
+  "demand": 12490,
+  "tacticalOpp": 990.7844481
+ },
+ {
+  "supercluster": "CONDITIONS & SYMPTOMS",
+  "cluster": "polyuria",
+  "demand": 6406,
+  "tacticalOpp": 453.5227252
+ }
+]
