@@ -1,4 +1,5 @@
-[
+{
+   "nodes" : [
  {
   "supercluster": "HEALTHY LIVING",
   "cluster": "weight",
@@ -2004,3 +2005,4 @@
   "tacticalOpp": 453.5227252
  }
 ]
+}
