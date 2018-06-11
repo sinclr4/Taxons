@@ -1,4 +1,5 @@
-[
+{
+    "nodes" : [
  {
   "cluster": "cancer",
   "taxon": "cancer",
@@ -1727,3 +1728,4 @@
   "url": ""
  }
 ]
+}
